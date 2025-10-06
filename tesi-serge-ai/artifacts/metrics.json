@@ -1,0 +1,27 @@
+{
+  "cv": "StratifiedKFold(5, shuffle=True, random_state=42)",
+  "accuracy_mean": 0.6599999999999999,
+  "accuracy_std": 0.10198039027185571,
+  "f1_macro_mean": 0.6065608465608465,
+  "f1_macro_std": 0.1140396871731631,
+  "folds_accuracy": [
+    0.6,
+    0.7,
+    0.5,
+    0.7,
+    0.8
+  ],
+  "folds_f1_macro": [
+    0.5079365079365079,
+    0.669047619047619,
+    0.44047619047619047,
+    0.6666666666666666,
+    0.7486772486772487
+  ],
+  "n_samples": 50,
+  "classes": [
+    "High",
+    "Low",
+    "Medium"
+  ]
+}

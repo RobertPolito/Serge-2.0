@@ -1,0 +1,21 @@
+requirements:
+  - Workshop di chiarimento requisiti e prototipi
+  - Baseline requisiti + change control
+process:
+  - Daily standup e board visibile
+  - Definition of Done e WIP limit
+technology:
+  - Proof-of-Concept e spike tecnici
+  - CI/CD con test automatici
+organizational:
+  - RACI e calendario allineamenti
+  - Piano di comunicazione stakeholder
+security:
+  - Threat modeling e code review
+  - Policy gestione credenziali
+people:
+  - Pairing/mentoring e knowledge sharing
+  - Piano di back-up competenze
+external:
+  - Clausole SLA e fornitore alternativo
+  - Buffer temporale e risk reserve
